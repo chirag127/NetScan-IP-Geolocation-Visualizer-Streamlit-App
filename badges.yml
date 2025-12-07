@@ -1,0 +1,28 @@
+badges:
+  - name: Build Status
+    url: https://img.shields.io/github/actions/workflow/status/chirag127/NetScan-IP-Geolocation-Visualizer-Streamlit-App/ci.yml?label=Build&style=flat-square
+    markdown: "[![Build Status](https://img.shields.io/github/actions/workflow/status/chirag127/NetScan-IP-Geolocation-Visualizer-Streamlit-App/ci.yml?label=Build&style=flat-square)](https://github.com/chirag127/NetScan-IP-Geolocation-Visualizer-Streamlit-App/actions/workflows/ci.yml)"
+
+  - name: Language
+    url: https://img.shields.io/github/languages/top/chirag127/NetScan-IP-Geolocation-Visualizer-Streamlit-App?style=flat-square
+    markdown: "[![Language](https://img.shields.io/github/languages/top/chirag127/NetScan-IP-Geolocation-Visualizer-Streamlit-App?style=flat-square)](https://github.com/chirag127/NetScan-IP-Geolocation-Visualizer-Streamlit-App)"
+
+  - name: License
+    url: https://img.shields.io/github/license/chirag127/NetScan-IP-Geolocation-Visualizer-Streamlit-App?style=flat-square
+    markdown: "[![License](https://img.shields.io/github/license/chirag127/NetScan-IP-Geolocation-Visualizer-Streamlit-App?style=flat-square)](LICENSE)"
+
+  - name: Python Version
+    url: https://img.shields.io/badge/Python-3.10%2B-blue?style=flat-square
+    markdown: "[![Python Version](https://img.shields.io/badge/Python-3.10%2B-blue?style=flat-square)](https://www.python.org/)"
+
+  - name: Code Coverage
+    url: https://img.shields.io/codecov/c/github/chirag127/NetScan-IP-Geolocation-Visualizer-Streamlit-App?token=XYZ123ABC&style=flat-square
+    markdown: "[![Coverage](https://img.shields.io/codecov/c/github/chirag127/NetScan-IP-Geolocation-Visualizer-Streamlit-App?token=XYZ123ABC&style=flat-square)](https://codecov.io/gh/chirag127/NetScan-IP-Geolocation-Visualizer-Streamlit-App)"
+
+  - name: Issues
+    url: https://img.shields.io/github/issues/chirag127/NetScan-IP-Geolocation-Visualizer-Streamlit-App?style=flat-square
+    markdown: "[![Issues](https://img.shields.io/github/issues/chirag127/NetScan-IP-Geolocation-Visualizer-Streamlit-App?style=flat-square)](https://github.com/chirag127/NetScan-IP-Geolocation-Visualizer-Streamlit-App/issues)"
+
+  - name: GitHub Stars
+    url: https://img.shields.io/github/stars/chirag127/NetScan-IP-Geolocation-Visualizer-Streamlit-App?style=social
+    markdown: "[![GitHub Stars](https://img.shields.io/github/stars/chirag127/NetScan-IP-Geolocation-Visualizer-Streamlit-App?style=social)](https://github.com/chirag127/NetScan-IP-Geolocation-Visualizer-Streamlit-App)"
